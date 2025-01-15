@@ -52,11 +52,6 @@ Future work includes implementing advanced reinforcement learning techniques lik
 5. **📄 License**
 - **This project is licensed under the MIT License - see the LICENSE file for details.**
 - 
-### Highlights:  
-- Detailed explanation of **DQN** and future integration of **Actor-Critic** and **HRL**.  
-- Clear structure with a focus on professional presentation.  
-- Installation and usage steps to make it easy for others to explore and use.  
 
-- **Let me know if there’s anything else to refine or add!**
 
     
